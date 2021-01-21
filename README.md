@@ -14,5 +14,7 @@ This works together with a bulk QR code generator program: https://github.com/ma
  - pip install numpy
  - pip install opencv-contrib-python
  - run EvaluateQRCodePerformance.py to install OpenCV (cv2)
+ - pip install scikit-image  # For random noise
+ - pip install matplotlib
  - python EvaluateQRCodePerformance
 HINT: Use Terminal in PyCharm to run commands for installing packages using pip (not Python Console)
