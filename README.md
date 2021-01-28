@@ -6,6 +6,7 @@ This works together with a bulk QR code generator program: https://github.com/ma
 - garethnhill@gmail.com | m.whitty@unsw.edu.au
 - Source code: https://github.com/markwhittyunsw/EvaluateQRReaderPaper
 - MIT licence
+- NOTE: The currently uploaded version of the evaluation code is incomplete.
 
 ## To compile from source
  - install python 3.7.2 64 bit edition
